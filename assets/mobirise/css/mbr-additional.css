@@ -1418,7 +1418,8 @@ body {
 }
 /* FONDO INICIAL */
 .cid-qIia8mgjVj {
-  background-image: url("../../../assets/images/oliTest.png");
+  background-image: url("../../../assets/images/OliNew.png");
+  background-size: cover;
 }
 .cid-qIieWoha50 {
   padding-top: 60px;
